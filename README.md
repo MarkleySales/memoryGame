@@ -1,7 +1,7 @@
 # MEMORY GAME
 <body>
 
-<h4 align="right">A registration system for companies and corporations with local storage.</h4>
+<h4 align="right">A game to challenge your memory!</h4>
 <div>
     <img width="50px" src="https://user-images.githubusercontent.com/95272518/152700586-7d25bf7c-5c9f-41cb-9e1a-2bed9fbc015d.svg">
     <img width="50px" src="https://user-images.githubusercontent.com/95272518/152700596-bac33ed4-b350-4f66-bd56-3235630ff345.svg">
