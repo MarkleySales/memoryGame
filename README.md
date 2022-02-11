@@ -30,7 +30,7 @@
 <img width="20%" src="https://user-images.githubusercontent.com/95272518/153346765-98911482-9934-40fc-ad24-62f0b1ed3485.png">
 <img width="20%" src="https://user-images.githubusercontent.com/95272518/153346779-e25586f4-65cb-4a8a-a178-b4897f29cd4c.png">
 </div>
-<h4>URL to access: https://markleysales.github.io/memoryGame/</h4>
+<h4>URL to access: https://markleysales.github.io/memoryGame</h4>
 <br><br><br>
 <h3>ABOUT</h3>
 <hr>
