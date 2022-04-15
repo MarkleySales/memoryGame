@@ -26,7 +26,7 @@
   </tr>
 </table>
 <br>
-<div float="left" align="center">
+<div align="center">
 <img width="20%" src="https://user-images.githubusercontent.com/95272518/153346765-98911482-9934-40fc-ad24-62f0b1ed3485.png">
 <img width="20%" src="https://user-images.githubusercontent.com/95272518/153346779-e25586f4-65cb-4a8a-a178-b4897f29cd4c.png">
 </div>
